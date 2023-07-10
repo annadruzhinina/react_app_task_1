@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 
+// Declarative style
+
 export const App = () => {
 	const currentYear = new Date().getFullYear();
 	return (
